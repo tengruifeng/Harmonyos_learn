@@ -1,5 +1,7 @@
 {
   "src": [
-    "pages/LoginTest"
+    "pages/day01/LoginTest",
+    "pages/day02/FriendIndex",
+    "pages/day02/StudyIndex"
   ]
 }
